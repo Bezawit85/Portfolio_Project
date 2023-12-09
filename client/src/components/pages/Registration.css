@@ -1,0 +1,11 @@
+.form{
+  height:100vh;
+  }
+  .headerc{
+      text-align: center;
+      color: black;
+      font-size:xx-large;
+      font-family: sans-serif;
+      font-weight:bold;
+    padding-top: 100px;
+  }
